@@ -31,7 +31,7 @@ Thank you  for taking the time to visit my Github profile 🙏. I'm excited to c
 - 🎓 Master's degree student in Computer Science at UNIMI  
   
 
-- 🌱 I’m currently learning AWS and ML  
+- 🌱 I’m learning AWS and ML  
 
 
 </td><td valign="bottom" width="50%">
