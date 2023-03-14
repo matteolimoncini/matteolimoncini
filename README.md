@@ -1,18 +1,7 @@
 # **Hi 👋, I'm Matteo Limoncini🍃**  
   
 
-<div align="center">
-<a href="https://github.com/matteolimoncini" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/matteo_limoncini" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/matteo-limoncini-16a54a22b" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
 
-</div>  
   
 
 
@@ -93,12 +82,26 @@ Thank you  for taking the time to visit my Github profile 🙏. I'm excited to c
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matteolimoncini" alt="matteolimoncini" /></a> </p>
 <td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=matteolimoncini&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=matteolimoncini" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=matteolimoncini" height="150" alt="languages graph"  />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteolimoncini&hide_border=true&layout=compact" align="left" style="width: 100%" />
+### Contact
 
-![Profile views counter](https://komarev.com/ghpvc/?username=matteolimoncini&&style=flat-square)
-</td></tr></table>  
+<div align="center">
+  <a href="https://www.linkedin.com/in/matteo-limoncini-16a54a22b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/MLimoncini" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="mailto:limoncinimatteo@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/Matteo_Limoncini" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
 
