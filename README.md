@@ -7,9 +7,10 @@
 
 
 ### Glad to see you here!  
-I'm a Master's degree student 🧑‍🎓  in Computer Science 💻. I'm passionate about the world of Machine Learning 🧠 and Data Science 📈, and my goal is to become a professional ML engineer or data scientist. 🚀
+I'm passionate about the world of Machine Learning 🧠 and Data Science 📈, and my goal is to become a professional ML engineer or data scientist. 🚀
+I have a Master's degree 🧑‍🎓  in Computer Science 💻. 
 
-In addition to my academic pursuits, I'm also an ambitious and curious individual with a range of interests. I have a deep passion for engines 🏎️ and the natural world 🍃, and I enjoy spending my free time exploring these topics further.
+I'm also an ambitious and curious individual with a range of interests. I have a deep passion for engines 🏎️ and the natural world 🍃, and I enjoy spending my free time exploring these topics further.
 
 I'm constantly working to improve my skills, both in terms of technical expertise and soft skills. I believe that staying curious 🔎 and seeking out new opportunities for growth and learning is essential in today's rapidly changing world. 🌍
 
