@@ -28,10 +28,10 @@ Thank you  for taking the time to visit my Github profile 🙏. I'm excited to c
 - 📈 Data Enthusiast  
   
 
-- 🎓 Master's degree student in Computer Science at UNIMI  
+- 🎓 Master's degree in Computer Science at UNIMI  
   
 
-- 🌱 I’m learning AWS and ML  
+- 🌱 I’m learning ML and AWS  
 
 
 </td><td valign="bottom" width="50%">
