@@ -14,7 +14,7 @@ I'm also an ambitious and curious individual with a range of interests. I have a
 
 I'm constantly working to improve my skills, both in terms of technical expertise and soft skills. I believe that staying curious 🔎 and seeking out new opportunities for growth and learning is essential in today's rapidly changing world. 🌍
 
-Thank you  for taking the time to visit my Github profile 🙏. I'm excited to continue my journey as a student of computer science and a passionate ML enthusiast.✌️  
+Thank you  for taking the time to visit my Github profile 🙏. I'm excited to continue my journey as a passionate ML enthusiast.✌️  
   
 
 <br/>  
