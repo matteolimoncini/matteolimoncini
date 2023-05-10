@@ -6,9 +6,9 @@
 
 
 
-### Glad to see you here!  
-I'm passionate about the world of Machine Learning 🧠 and Data Science 📈, and my goal is to become a professional ML engineer or data scientist. 🚀
-I have a Master's degree 🧑‍🎓  in Computer Science 💻. 
+### Glad to see you here! 
+I'm passionate about the world of Machine Learning 🧠 and Data Science 📈.
+I am working as an ML & AI Engineer at Jakala Spa🚀 and I have a Master's degree 🧑‍🎓  in Computer Science 💻. 
 
 I'm also an ambitious and curious individual with a range of interests. I have a deep passion for engines 🏎️ and the natural world 🍃, and I enjoy spending my free time exploring these topics further.
 
